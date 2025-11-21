@@ -1,3 +1,5 @@
+![Report Summary](./report/report-Practical-calss-01.png)
+
 # 🚀 JMeter Performance Testing Project
 
 A complete performance testing framework built using **Apache JMeter**, designed to evaluate system behavior, stability, and scalability under various levels of load.  
@@ -16,7 +18,7 @@ The repository contains:
 - 📑 Aggregate Report  
 - 📄 Summary Report  
 - 🌲 View Results Tree  
-- 🖼️ Exported images for all reports  
+- 🖼️ Exported html file for reports  
 
 ---
 
