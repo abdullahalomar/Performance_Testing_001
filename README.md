@@ -75,7 +75,20 @@ Ensure the following are installed:
 ---
 
 ### Aggregate Graph
-![Report Summary](./report-Practical-calss-01.png)
+![Report Summary](./Aggregate-Graph.png)
+
+### Aggregate Report
+![Report Summary](./Aggregate-report.png)
+
+### View Results Tree
+![Report Summary](./View-results-tree.png)
+
+### Summary Report
+![Report Summary](./summary-report.png)
+
+### View Result in Table
+![Report Summary](./view-result-in-table.png)
+
 
 ### **Setup & Installation**
 
