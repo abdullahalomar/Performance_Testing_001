@@ -47,20 +47,6 @@ The repository contains:
 
 ---
 
-## 📁 Project Structure
-project-root/
-│
-├── test-plan.jmx
-├── results/
-│ ├── images/
-│ │ ├── aggregate-graph.png
-│ │ ├── aggregate-report.png
-│ │ ├── summary-report.png
-│ │ └── view-results-tree.png
-│ ├── reports/
-│ └── results.jtl
-└── README.md
-
 ## ▶️ How to Run the Tests
 
 ### **Prerequisites**
